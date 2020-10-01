@@ -46,6 +46,56 @@ Use the `.legend-inline` class to aligning your chart legend dataset labels hori
 
 Usually used to position the legend beside the chart.
 
+## Legend Shape
+
+### Circle
+
+Use the `.legend-circle` class to display a circular shape label.
+
+```html
+<ul class="charts-css legend legend-circle">
+    <li>Label 1</li>
+    <li>Label 2</li>
+    <li>Label 3</li>
+</ul>
+```
+
+### Square
+
+Use the `.legend-square` class to display a square shape label.
+
+```html
+<ul class="charts-css legend legend-square">
+    <li>Label 1</li>
+    <li>Label 2</li>
+    <li>Label 3</li>
+</ul>
+```
+
+### Rectangle
+
+Use the `.legend-rectangle` class to display a rectangular shape label.
+
+```html
+<ul class="charts-css legend legend-rectangle">
+    <li>Label 1</li>
+    <li>Label 2</li>
+    <li>Label 3</li>
+</ul>
+```
+
+### Line
+
+Use the `.legend-line` class to display a line shape label.
+
+```html
+<ul class="charts-css legend legend-line">
+    <li>Label 1</li>
+    <li>Label 2</li>
+    <li>Label 3</li>
+</ul>
+```
+
 ## Label Colors
 
 The labels are marked with unique colors, depending on the theme you are using. Changing the colors is as simple as changing an HTML element style.

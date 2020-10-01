@@ -15,7 +15,7 @@ To download Charts.css visit from our GitHub repository, click on the following 
 Copy & paste the stylesheet `<link>` tag into your `<head>` to load the CSS.
 
 ```html
-<link rel="stylesheet" href="path/to/your/css-charts.min.css">
+<link rel="stylesheet" href="path/to/your/charts.min.css">
 ```
 
 ## CDN
@@ -23,7 +23,7 @@ Copy & paste the stylesheet `<link>` tag into your `<head>` to load the CSS.
 Alternatively, you can use a CDN. Copy & paste the following `<link>` tag into your `<head>`.
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/css-charts">
+<link rel="stylesheet" href="https://unpkg.com/charts.css">
 ```
 
 ## Package Manager

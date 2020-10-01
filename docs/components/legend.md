@@ -9,7 +9,7 @@ The chart visualize the data, the legend list the data sets. Therefor the legend
 Use the `.legend` class to style your chart legend.
 
 ```html
-<ul class="css-charts legend">
+<ul class="charts-css legend">
     <li>Label 1</li>
     <li>Label 2</li>
     <li>Label 3</li>
@@ -21,7 +21,7 @@ Use the `.legend` class to style your chart legend.
 Use the `.legend-block` class to aligning your chart legend dataset labels vertically.
 
 ```html
-<ul class="css-charts legend legend-block">
+<ul class="charts-css legend legend-block">
     <li>Label 1</li>
     <li>Label 2</li>
     <li>Label 3</li>
@@ -35,7 +35,7 @@ Usually used to position the legend above or below the chart.
 Use the `.legend-inline` class to aligning your chart legend dataset labels horizontally.
 
 ```html
-<ul class="css-charts legend legend-inline">
+<ul class="charts-css legend legend-inline">
     <li>Label 1</li>
     <li>Label 2</li>
     <li>Label 3</li>

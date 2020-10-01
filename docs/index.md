@@ -20,7 +20,7 @@ In addition, And you get more styling options with regular CSS (e.g. colors, fon
 
 Traditional chart libraries require complex dataset configuration and options definition the way they require with an endless lists of properties and methods effecting your performance.
 
-Charts.css simplifies the process, you display your data using semantic HTML tags of your choice (`<ul>` lists, data `<table>`'s, `<figure>` etc.), and style the data using our CSS classes (`<ul class="css-charts bar bar-bordered bar-hover">`,  `<figure class="css-charts pie">`, etc.).
+Charts.css simplifies the process, you display your data using semantic HTML tags of your choice (`<ul>` lists, data `<table>`'s, `<figure>` etc.), and style the data using our CSS classes (`<ul class="charts-css bar bar-bordered bar-hover">`,  `<figure class="charts-css pie">`, etc.).
 
 This modern approach displays your content even if the stylesheet was not loaded. You site becomes much more accessible as screen readers "see" the original content as HTML tags. And you get more styling options with regular CSS (e.g. colors, fonts, typography, hover affects, animations, ).
 

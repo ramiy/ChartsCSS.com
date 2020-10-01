@@ -4,10 +4,10 @@ title: Usage
 
 Charts.css visualize your data using semantic HTML tags of your choice (`<ul>` lists, data `<table>`'s, `<figure>` etc.), and style the data using simple **CSS classes**.
 
-After installing the css file, add the class `css-charts` to an element:
+After installing the css file, add the class `charts-css` to an element:
 
 ```html
-<table class="css-charts">
+<table class="charts-css">
     ...
 </table>
 ```
@@ -17,7 +17,7 @@ After installing the css file, add the class `css-charts` to an element:
 Next, choose one of the **[chart types](/charts)** and apply it to your data using a simple CSS class:
 
 ```html
-<table class="css-charts bar">
+<table class="charts-css bar">
     ...
 </table>
 ```

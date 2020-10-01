@@ -6,4 +6,4 @@ JS frameworks trying to offer all the options (titles, legends, tooltips, animat
 
 ## Wrapper
 
-Charts.css does not requires you to add a wrapper element your code. You are required to add a css-charts class
+Charts.css does not requires you to add a wrapper element your code, but you are required to add a `charts-css` class to the chart related elements.

@@ -16,7 +16,9 @@ Use the `.legend` class to style your chart legend.
 </ul>
 ```
 
-## Vertical Legend
+## Legend Orientation
+
+### Vertical Legend
 
 Use the `.legend-block` class to aligning your chart legend dataset labels vertically.
 
@@ -30,7 +32,7 @@ Use the `.legend-block` class to aligning your chart legend dataset labels verti
 
 Usually used to position the legend above or below the chart.
 
-## Horizontal Legend
+### Horizontal Legend
 
 Use the `.legend-inline` class to aligning your chart legend dataset labels horizontally.
 
